@@ -1,0 +1,15 @@
+Direct3D:
+    Version:  Direct3D 9.0c [nvumdshim.dll 8.17.12.6830]
+    Renderer: Intel(R) HD Graphics Family
+    Vendor:   Intel
+    VRAM:     1809 MB
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=1 DF24=1 INTZ=1 RAWZ=0 NULL=1 RESZ=1 SlowINTZ=0
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<I> Initializing (RawInput).
+<RI> Input initialized.
+Non platform assembly: data-02F77818 (this message is harmless)
+Non platform assembly: data-02FDCB50 (this message is harmless)
+Non platform assembly: data-088A0048 (this message is harmless)
+Non platform assembly: data-02FE8F90 (this message is harmless)
+Platform assembly: C:\Users\Gev\Desktop\Gol_Data\Managed\UnityScript.Lang.dll (this message is harmless)
+Platform assembly: C:\Users\Gev\Desktop\Gol_Data\Managed\Boo.Lang.dll (this message is harmless)
